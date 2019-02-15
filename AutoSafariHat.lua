@@ -851,4 +851,60 @@ do
 
     petTamersWithoutPopup[67370] = true
     petTamersWithoutPopup[85519] = true
+
+-- Legion Master Pet Tamers to be verified: some of them can be “petTamersWithoutPopup”
+-- Dalaran (Patch 7.0)
+    petTamers[107489] = true -- Amalia / Fight Night: Amalia (Family Familiar)
+    petTamers[99210] = true -- Bodhi Sunwayver / Fight Night: Bodhi Sunwayver (Family Familiar)
+    petTamers[99742] = true -- Heliosus / Fight Night: Heliosus
+    petTamers[99182] = true -- Sir Galveston / Fight Night: Sir Galveston (Family Familiar)
+    petTamers[105241] = true -- Splint Jr. / Fight Night: Rats!
+    petTamers[105840] = true -- Stitches Jr. Jr. / Fight Night: Stitches Jr. Jr.
+    petTamers[97804] = true -- Tiffany Nelson / Fight Night: Tiffany Nelson (Family Familiar)
+
+-- Azsuna (Patch 7.0)
+    petTamers[105898] = true -- Blottis / Size Doesn't Matter
+    petTamers[106476] = true -- Beguiling Orb / Dazed and Confused and Adorable [click to start?!]
+    petTamers[106552] = true -- Nightwatcher Merayl / Training with the Nightwatchers (Family Familiar)
+    petTamers[106417] = true -- Vinu / The Wine's Gone Bad
+    petTamers[106542] = true -- Wounded Azurewing Whelpling / Help a Whelp [click to start?!]
+
+-- Val'sharah (Patch 7.0)
+    petTamers[99035] = true -- Durian Strongfruit / Training with Durian (Family Familiar)
+    petTamers[105093] = true -- Fragment of Fire / Only Pets Can Prevent Forest Fires
+    petTamers[104992] = true -- The Maw / Meet The Maw
+    petTamers[105009] = true -- Thistleleaf Bully / Stand Up to Bullies
+    petTamers[104970] = true -- Xorvasc / Dealing with Satyrs (Family Familiar)
+
+-- Highmountain (Patch 7.0)
+    petTamers[99077] = true -- Bredda Tenderhide / Training with Bredda (Family Familiar)
+    petTamers[99150] = true -- Grixis Tinypop / Tiny Poacher, Tiny Animals (Family Familiar)
+    petTamers[104782] = true -- Hungry Icefang / Wildlife Protection Force
+    petTamers[105841] = true -- Lil'idan / It's Illid... Wait.
+    petTamers[104553] = true -- Odrogg / Snail Fight! (Family Familiar)
+    petTamers[98572] = true -- Rocko / Rocko Needs a Shave
+
+-- Stormheim (Patch 7.0)
+    petTamers[105842] = true -- Chromadon / All Howl, No Bite
+    petTamers[105455] = true -- Trapper Jarrun / Jarrun's Ladder (Family Familiar)
+    petTamers[99878] = true -- Ominitron Defense System / Oh, Ominitron
+    petTamers[98270] = true -- Robert Craig / My Beast's Bidding (Family Familiar)
+    petTamers[105512] = true -- Envoy of the Hunt / All Pets Go to Heaven
+    -- Beasts of Burden:
+    petTamers[105387] = true -- Andurs
+    petTamers[105386] = true -- Rydyr
+
+-- Suramar (Patch 7.0)
+    petTamers[105250] = true -- Aulier / The Master of Pets (Family Familiar)
+    petTamers[105323] = true -- Ancient Catacomb Eggs / Clear the Catacombs
+    petTamers[105674] = true -- Varenne / Chopped (Family Familiar)
+    petTamers[97709] = true -- Master Tamer Flummox / Flummoxed (Family Familiar)
+    petTamers[105779] = true -- Felsoul Seer / Threads of Fate
+    petTamers[105352] = true -- Surging Mana Crystal / Mana Tap
+
+-- The Broken Shore (Patch 7.2)
+    petTamers[117934] = true -- Sissix / Illidari Masters: Sissix
+    petTamers[117950] = true -- Madam Viciosa / Illidari Masters: Madam Viciosa
+    petTamers[117951] = true -- Nameless Mystic / Illidari Masters: Nameless Mystic
+
 end
