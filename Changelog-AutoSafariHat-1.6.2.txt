@@ -1,0 +1,8 @@
+2015-06-23  MMOSimca  <MMOSimca@gmail.com>
+
+[224b1643a439] [1.6.2]
+* AutoSafariHat.toc:
+
+Updated Interface version for Patch 6.2.
+
+
