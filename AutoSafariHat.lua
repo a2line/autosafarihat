@@ -907,4 +907,41 @@ do
     petTamers[117950] = true -- Madam Viciosa / Illidari Masters: Madam Viciosa
     petTamers[117951] = true -- Nameless Mystic / Illidari Masters: Nameless Mystic
 
+-- Battle for Azeroth
+-- Tiragarde Sound
+    petTamers[141292] = true -- Delia Hanako / That’s a Big Carcass
+    petTamers[141479] = true -- Burly / Strange Looking Dogs
+    petTamers[141077] = true -- Kwint / Not So Bad Down Here
+    petTamers[141215] = true -- Chitara / Unbreakable
+
+-- Stormsong Valley
+    petTamers[141046] = true -- Leana Darkwind / Captured Evil
+    petTamers[141002] = true -- Ellie Vern / Sea Creatures Are Weird
+    petTamers[140315] = true -- Eddie Fixit / Automated Chaos
+    petTamers[139987] = true -- Bristlespine / This Little Piggy Has Sharp Tusks
+
+-- Drustvar
+    petTamers[140880] = true -- Michael Skarn / What’s the Buzz?
+    petTamers[140813] = true -- Fizzie Sparkwhistle / Rogue Azerite
+    petTamers[140461] = true -- Dilbert McClint / Night Horrors
+    petTamers[139489] = true -- Captain Hermes / Crab People
+
+-- Zuldazar
+    petTamers[142114] = true -- Talia Sparkbrow / Add More to the Collection
+    petTamers[142234] = true -- Zujai / Small Beginnings
+    petTamers[142151] = true -- Jammer / You’ve Never Seen Jammer Upset
+    petTamers[142096] = true -- Karaga / Critters are Friends, Not Food
+
+-- Nazmir
+    petTamers[141588] = true -- Bloodtusk / Crawg in the Bog
+    petTamers[141529] = true -- Lozu / Marshdwellers
+    petTamers[141814] = true -- Korval Darkbeard / Accidental Dread
+    petTamers[141799] = true -- Grady Prett / Pack Leader
+
+-- Vol’dun
+    petTamers[141879] = true -- Keeyo / Keeyo’s Champions of Vol’dun
+    petTamers[142054] = true -- Kusa / Desert Survivors
+    petTamers[141969] = true -- Spineleaf / What Do You Mean, Mind Controlling Plants?
+    petTamers[141945] = true -- Sizzik / Snakes on a Terrace
+
 end
